@@ -1,0 +1,118 @@
+INFO  [20:47:03]:__main__:23: auto_derby: 1.19.0 (2022-03-31 00:38:09)
+INFO  [20:47:03]:auto_derby.version:54: lastest: 1.15.4 from https://natescarlet.coding.net/p/github/d/auto-derby/git/raw/master/version
+INFO  [20:47:03]:auto_derby.plugin:48: installed: auto_crane
+INFO  [20:47:03]:auto_derby.plugin:48: installed: no_ocr_prompt
+INFO  [20:47:03]:auto_derby.plugin:48: installed: caoduanyingzhong
+INFO  [20:47:03]:auto_derby.plugin:48: installed: no_race_retry
+INFO  [20:47:03]:auto_derby.window:83: width=540 height=960
+INFO  [20:47:03]:auto_derby.window:85: already in wanted size
+INFO  [20:47:03]:auto_derby.clients.dmm:55: foregrounded game window: handle=920448
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:04]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:05]:auto_derby.scenes.scene:41: enter: unknown -> single-mode-command
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_training.png>, pos=(199, 760), similarity=0.97
+INFO  [20:47:05]:auto_derby.scenes.scene:43: entered: single-mode-command
+INFO  [20:47:05]:auto_derby.window:83: width=540 height=960
+INFO  [20:47:05]:auto_derby.window:85: already in wanted size
+INFO  [20:47:05]:auto_derby.clients.dmm:55: foregrounded game window: handle=920448
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_climax_grade_point_icon.png>, pos=(19, 161), similarity=1.00
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_character_detail_button.png>, pos=(466, 559), similarity=0.95
+INFO  [20:47:05]:auto_derby.template:199: no match: tmpl=('single_mode_command_health_care.png',)
+INFO  [20:47:05]:auto_derby.template:199: no match: tmpl=('single_mode_scheduled_race_opening_banner.png',)
+INFO  [20:47:05]:auto_derby.template:199: no match: tmpl=('single_mode_go_out_friend_icon.png',)
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_shop.png>, pos=(289, 865), similarity=1.00
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_command_shop.png>, pos=(289, 865), similarity=1.00
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_climax_grade_point_pt_text.png>, pos=(70, 10), similarity=0.91
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_climax_class_detail_button.png>, pos=(126, 591), similarity=0.98
+INFO  [20:47:05]:auto_derby.template:183: match: tmpl=tmpl<single_mode_climax_class_detail_button.png>, pos=(126, 591), similarity=0.98
+INFO  [20:47:06]:auto_derby.template:183: match: tmpl=tmpl<single_mode_class_detail_title.png>, pos=(172, 226), similarity=0.96
+INFO  [20:47:06]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 676), similarity=1.00
+INFO  [20:47:06]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 676), similarity=1.00
+INFO  [20:47:07]:auto_derby.template:183: match: tmpl=tmpl<single_mode_character_detail_button.png>, pos=(466, 559), similarity=0.95
+INFO  [20:47:07]:auto_derby.template:183: match: tmpl=tmpl<single_mode_character_detail_button.png>, pos=(466, 559), similarity=0.95
+INFO  [20:47:08]:auto_derby.template:183: match: tmpl=tmpl<single_mode_character_detail_title.png>, pos=(198, 33), similarity=0.96
+INFO  [20:47:08]:auto_derby.template:199: no match: tmpl=('single_mode_condition_headache.png', 'single_mode_condition_overweight.png')
+INFO  [20:47:08]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:08]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:09]:auto_derby.scenes.scene:41: enter: single-mode-command -> single-mode-item-menu
+INFO  [20:47:09]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_button.png>, pos=(396, 573), similarity=1.00
+INFO  [20:47:09]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_button.png>, pos=(396, 573), similarity=1.00
+INFO  [20:47:09]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 871), similarity=1.00
+INFO  [20:47:09]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=0.99
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:10]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<close_button.png>, pos=(250, 874), similarity=1.00
+INFO  [20:47:11]:auto_derby.scenes.scene:43: entered: single-mode-item-menu
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_current_quantity.png>, pos=(134, 444), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_current_quantity.png>, pos=(134, 240), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_current_quantity.png>, pos=(134, 138), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_current_quantity.png>, pos=(134, 342), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_current_quantity.png>, pos=(134, 546), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_current_quantity.png>, pos=(134, 648), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_current_quantity.png>, pos=(134, 750), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_use_button.png>, pos=(414, 43), similarity=1.00
+INFO  [20:47:11]:auto_derby.template:183: match: tmpl=tmpl<single_mode_item_menu_use_button.png>, pos=(414, 43), similarity=1.00
+ERROR [20:47:11]:__main__:129: unexpected exception
+Traceback (most recent call last):
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\__main__.py", line 125, in <module>
+    main()
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\__main__.py", line 96, in main
+    job()
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\jobs\nurturing.py", line 328, in nurturing
+    spec[_spec_key(tmpl)](ac)
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\jobs\nurturing.py", line 179, in _ac_handle_turn
+    _handle_turn(ac.ctx)
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\jobs\nurturing.py", line 122, in _handle_turn
+    _handle_item_list(ctx, scene)
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\jobs\nurturing.py", line 86, in _handle_item_list
+    scene.recognize(ctx)
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\scenes\single_mode\item_menu.py", line 148, in recognize
+    self._recognize_items(static)
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\scenes\single_mode\item_menu.py", line 130, in _recognize_items
+    new_items = tuple(
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\scenes\single_mode\item_menu.py", line 130, in <genexpr>
+    new_items = tuple(
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\scenes\single_mode\item_menu.py", line 86, in _recognize_menu
+    yield _recognize_item(rp, img.crop(bbox)), (x + rp.vector(303, 540), y)
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\scenes\single_mode\item_menu.py", line 62, in _recognize_item
+    v = item.from_name_image(_title_image(rp, img))
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\single_mode\item\label.py", line 129, in from_name_image
+    return _prompt(img, h, item.id if item else 0)
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\single_mode\item\label.py", line 55, in _prompt
+    form_data = web.prompt(
+  File "C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0\auto_derby\web\_prompt.py", line 146, in prompt
+    httpd.server_bind()
+  File "C:\Users\xx\AppData\Local\Programs\Python\Python38\lib\http\server.py", line 140, in server_bind
+    self.server_name = socket.getfqdn(host)
+  File "C:\Users\xx\AppData\Local\Programs\Python\Python38\lib\socket.py", line 756, in getfqdn
+    hostname, aliases, ipaddrs = gethostbyaddr(name)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb1 in position 6: invalid start byte
+
+C:\Users\xx\Desktop\赛马娘\auto-derby-1.19.0>
